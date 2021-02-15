@@ -1,0 +1,8 @@
+@media screen and (max-width: 776px) {
+  .guides {
+    text-align: center;
+  }
+  .guides__column img {
+    margin-top: 40px;
+  }
+}
